@@ -1,7 +1,7 @@
 # OnTheSpot
 
 
-NOTE: due to large file size, I had to upload it as a video:
+**NOTE: due to large file size, I had to upload it as a video. Please click the icon to watch it**:
 
 [![Video Preview](https://img.youtube.com/vi/qAVjKDSOJ_8/0.jpg)](https://www.youtube.com/watch?v=qAVjKDSOJ_8)
 
